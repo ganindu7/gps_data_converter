@@ -38,3 +38,11 @@ for i = 1:length(filename)
 end
 
 fclose(fileID);
+
+%% This is just to test git
+
+%% This is again to test git 
+
+%% Git Again
+
+%% Same
